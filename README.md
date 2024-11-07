@@ -15,7 +15,7 @@ liderazgo y trabajo en equipo. Destacado por brindar una atención al cliente su
 ## 💪 Habilidades
 
 - *Lenguajes de Programación:* JavaScript, Python, Java, Typescript
-- *Frameworks y Librerías:* Angular, Node.js
+- *Frameworks y Librerías:* Angular, Node.js, Spring Boot
 - *Herramientas y Tecnologías:* Git, Docker, Postman, PgAdmin4, Azure
 - *Ofimática:* Microsoft Office, Google Workspace, automatización de tareas
 
