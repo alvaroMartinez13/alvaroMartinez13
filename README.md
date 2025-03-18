@@ -15,13 +15,13 @@ liderazgo y trabajo en equipo. Destacado por brindar una atención al cliente su
 ## 💪 Habilidades
 
 - *Lenguajes de Programación:* JavaScript, Python, Java, Typescript
-- *Frameworks y Librerías:* Angular, Node.js, Spring Boot
-- *Herramientas y Tecnologías:* Git, Github, Docker, Postman, PgAdmin4, Azure
+- *Frameworks y Librerías:* Angular, Node.js, Spring Boot, React, Tailwind CSS
+- *Herramientas y Tecnologías:* Git, Github, Docker, Postman, PgAdmin4, AWS
 - *Ofimática:* Microsoft Office, Google Workspace, automatización de tareas
 
 ## 📒 Contacto
 
-- LinkedIn: www.linkedin.com/in/alvaro-andres-martinez-alcina-4a0976316
+- LinkedIn: www.linkedin.com/in/alvaro-martinez13
 - Email: alvaro.martinezalcina13@gmail.com
 
 ¡Gracias por visitar mi perfil! 
